@@ -1,0 +1,1 @@
+- [streama: It's like Netflix, but self-hosted!](https://github.com/dularion/streama#getting-started)
